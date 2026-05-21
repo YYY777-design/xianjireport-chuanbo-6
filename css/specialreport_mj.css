@@ -6826,8 +6826,8 @@ body.propagation-modal-landscape-body-lock {
     }
 
     .propagation-analysis-card .propagation-analysis-landscape-body .pa-topic-rank-menu {
-        top: calc(100% + 8px);
-        bottom: auto;
+        top: auto;
+        bottom: calc(100% + 8px);
         left: 0;
         right: auto;
         z-index: 60;
